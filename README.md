@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tarek Mohammed</h1>
 <h3 align="center">Flutter Developer with a Computer Science degree from Helwan University, specializing in AI and building cross-platform mobile solutions.</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tarekmohammedgg&label=Profile%20views&color=0e75b6&style=flat" alt="tarekmohammedgg" />
+</p>
 <img align="right" alt="Coding" width = "400" src = "https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 
 - currently working on Flutter App [Stock App](https://github.com/ISLAM2ADEL/stock_application)
