@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" alt="Coding" width="400">
+  <img src="assets/dev.gif" width="400" />
 </p>
 
 <p align="left"> 
