@@ -9,17 +9,7 @@
 <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" ... />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tarekmohammedgg" alt="tarekmohammedgg" />
-  </a> 
-</p>
 
-<p align="left"> 
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a> 
-</p>
 
 - 🔨 Currently working on Flutter App: [Stock App](https://github.com/ISLAM2ADEL/stock_application)  
 - 🎓 Last finished project (Graduate Project): [Skintelligent](https://github.com/ISLAM2ADEL/skintelligent)  
