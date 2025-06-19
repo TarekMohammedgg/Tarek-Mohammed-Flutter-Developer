@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/dev.gif" width="400" />
+  <img src="dev.gif" width="400" />
 </p>
 
 <p align="left"> 
