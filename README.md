@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarek Mohammed</h1>
 <h3 align="center">Flutter Developer with a Computer Science degree from Helwan University, specializing in AI and building cross-platform mobile solutions.</h3>
-<p align = "center"
+<p align = "center">
 <img align="right" alt="Coding" width = "400" src = "https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 </p>
 
